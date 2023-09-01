@@ -1,0 +1,368 @@
+[INFO ] 2021-12-02 17:10:28.373 [main] MyFirstTestClass2 - Navegamos a la url de QAlified http://btd-bantotal.eastus2.cloudapp.azure.com:4462/btdeveloper/servlet/com.dlya.bantotal.hlogin
+[INFO ] 2021-12-02 17:10:31.359 [main] WorkWithLogin - Se ingresa usuario de la persona- {}
+[INFO ] 2021-12-02 17:10:31.441 [main] WorkWithLogin - Se ingresa password de la persona- {}
+[INFO ] 2021-12-02 17:10:32.368 [main] WebAutomator - Se cierra el WebDriver activo
+[INFO ] 2021-12-02 17:10:34.016 [main] MyFirstTestClass - Navegamos a la url de QAlified https://qalified.com/
+[INFO ] 2021-12-02 17:10:42.408 [main] WorkWithLogin - Se ingresa el nombre de la persona - {}
+[INFO ] 2021-12-02 17:10:42.543 [main] WorkWithLogin - Se ingresa el mensaje- {}
+[INFO ] 2021-12-02 17:10:42.723 [main] WebAutomator - Se cierra el WebDriver activo
+[INFO ] 2021-12-02 17:37:39.861 [main] MyFirstTestClass2 - Navegamos a la url de QAlified http://btd-bantotal.eastus2.cloudapp.azure.com:4462/btdeveloper/servlet/com.dlya.bantotal.hlogin
+[INFO ] 2021-12-02 17:38:25.060 [main] MyFirstTestClass2 - Navegamos a la url de QAlified http://btd-bantotal.eastus2.cloudapp.azure.com:4462/btdeveloper/servlet/com.dlya.bantotal.hlogin
+[INFO ] 2021-12-02 17:43:25.211 [main] WebAutomator - Se cierra el WebDriver activo
+[INFO ] 2021-12-02 17:43:27.941 [main] MyFirstTestClass - Navegamos a la url de QAlified https://qalified.com/
+[INFO ] 2021-12-02 17:48:28.040 [main] WebAutomator - Se cierra el WebDriver activo
+[INFO ] 2021-12-02 17:49:00.975 [main] MyFirstTestClass2 - Navegamos a la url de QAlified http://btd-bantotal.eastus2.cloudapp.azure.com:4462/btdeveloper/servlet/com.dlya.bantotal.hlogin
+[INFO ] 2021-12-08 10:02:56.109 [main] MyFirstTestClass2 - Navegamos a la url de QAlified http://btd-bantotal.eastus2.cloudapp.azure.com:4462/btdeveloper/servlet/com.dlya.bantotal.hlogin
+[INFO ] 2021-12-08 10:04:16.912 [main] MyFirstTestClass2 - Navegamos a la url de QAlified http://btd-bantotal.eastus2.cloudapp.azure.com:4462/btdeveloper/servlet/com.dlya.bantotal.hlogin
+[INFO ] 2021-12-08 10:04:19.386 [main] WorkWithLogin - Se ingresa usuario de la persona- {}
+[INFO ] 2021-12-08 10:04:19.504 [main] WorkWithLogin - Se ingresa password de la persona- {}
+[INFO ] 2021-12-08 10:04:20.477 [main] WebAutomator - Se cierra el WebDriver activo
+[INFO ] 2021-12-08 10:04:22.289 [main] MyFirstTestClass - Navegamos a la url de QAlified https://qalified.com/
+[INFO ] 2021-12-08 10:04:31.460 [main] WorkWithLogin - Se ingresa el nombre de la persona - {}
+[INFO ] 2021-12-08 10:04:31.586 [main] WorkWithLogin - Se ingresa el mensaje- {}
+[INFO ] 2021-12-08 10:04:31.817 [main] WebAutomator - Se cierra el WebDriver activo
+[INFO ] 2021-12-08 10:05:57.955 [main] MyFirstTestClass2 - Navegamos a la url de QAlified http://btd-bantotal.eastus2.cloudapp.azure.com:4462/btdeveloper/servlet/com.dlya.bantotal.hlogin
+[INFO ] 2021-12-08 10:06:00.325 [main] WorkWithLogin - Se ingresa usuario de la persona- {}
+[INFO ] 2021-12-08 10:06:00.415 [main] WorkWithLogin - Se ingresa password de la persona- {}
+[INFO ] 2021-12-08 10:06:01.378 [main] WebAutomator - Se cierra el WebDriver activo
+[INFO ] 2021-12-08 10:06:06.379 [main] MyFirstTestClass - Navegamos a la url de QAlified https://qalified.com/
+[INFO ] 2021-12-08 10:06:10.831 [main] WorkWithLogin - Se ingresa el nombre de la persona - {}
+[INFO ] 2021-12-08 10:06:10.920 [main] WorkWithLogin - Se ingresa el mensaje- {}
+[INFO ] 2021-12-08 10:06:11.118 [main] WebAutomator - Se cierra el WebDriver activo
+[INFO ] 2021-12-14 16:09:34.680 [main] MyFirstTestClass3 - Navegamos a la url de CURA Healthcare Service https://katalon-demo-cura.herokuapp.com
+[INFO ] 2021-12-14 16:32:31.614 [main] MyFirstTestClass3 - Navegamos a la url de CURA Healthcare Service https://katalon-demo-cura.herokuapp.com
+[INFO ] 2021-12-14 16:32:34.480 [main] WorkWithLogin - The person's username is entered - {}
+[INFO ] 2021-12-14 16:32:34.607 [main] WorkWithLogin - The person's password is entered- {}
+[INFO ] 2021-12-14 16:32:35.272 [main] WebAutomator - Se cierra el WebDriver activo
+[INFO ] 2021-12-14 16:32:36.898 [main] MyFirstTestClass - Navegamos a la url de QAlified https://qalified.com/
+[INFO ] 2021-12-14 16:32:46.474 [main] WorkWithLogin - The person's name is entered - {}
+[INFO ] 2021-12-14 16:32:46.598 [main] WorkWithLogin - The message is entered - {}
+[INFO ] 2021-12-14 16:32:46.784 [main] WebAutomator - Se cierra el WebDriver activo
+[INFO ] 2021-12-14 16:33:01.206 [main] MyFirstTestClass3 - Navegamos a la url de CURA Healthcare Service https://katalon-demo-cura.herokuapp.com
+[INFO ] 2021-12-14 16:33:05.789 [main] WorkWithLogin - The person's username is entered - {}
+[INFO ] 2021-12-14 16:33:05.926 [main] WorkWithLogin - The person's password is entered- {}
+[INFO ] 2021-12-14 16:33:06.588 [main] WebAutomator - Se cierra el WebDriver activo
+[INFO ] 2021-12-14 16:33:08.103 [main] MyFirstTestClass - Navegamos a la url de QAlified https://qalified.com/
+[INFO ] 2021-12-14 16:33:15.121 [main] WorkWithLogin - The person's name is entered - {}
+[INFO ] 2021-12-14 16:33:15.266 [main] WorkWithLogin - The message is entered - {}
+[INFO ] 2021-12-14 16:33:15.466 [main] WebAutomator - Se cierra el WebDriver activo
+[INFO ] 2021-12-30 15:22:22.982 [main] MyFirstTestClass3 - Navegamos a la url de CURA Healthcare Service https://katalon-demo-cura.herokuapp.com
+[INFO ] 2021-12-30 15:22:25.827 [main] WorkWithLogin - The person's username is entered - {}
+[INFO ] 2021-12-30 15:22:25.915 [main] WorkWithLogin - The person's password is entered- {}
+[INFO ] 2021-12-30 15:22:26.497 [main] WebAutomator - Se cierra el WebDriver activo
+[INFO ] 2021-12-30 15:22:32.071 [main] MyFirstTestClass - Navegamos a la url de QAlified https://qalified.com/
+[INFO ] 2021-12-30 15:22:37.682 [main] WorkWithLogin - The person's name is entered - {}
+[INFO ] 2021-12-30 15:22:37.802 [main] WorkWithLogin - The message is entered - {}
+[INFO ] 2021-12-30 15:22:38.037 [main] WebAutomator - Se cierra el WebDriver activo
+[INFO ] 2021-12-30 15:25:59.260 [main] MyFirstTestClass3 - Navegamos a la url de CURA Healthcare Service https://katalon-demo-cura.herokuapp.com
+[INFO ] 2021-12-30 15:26:01.757 [main] WorkWithLogin - The person's username is entered - {}
+[INFO ] 2021-12-30 15:26:02.031 [main] WorkWithLogin - The person's password is entered- {}
+[INFO ] 2021-12-30 15:26:02.701 [main] WebAutomator - Se cierra el WebDriver activo
+[INFO ] 2021-12-30 15:26:04.198 [main] MyFirstTestClass - Navegamos a la url de QAlified https://qalified.com/
+[INFO ] 2021-12-30 15:26:08.068 [main] WorkWithLogin - The person's name is entered - {}
+[INFO ] 2021-12-30 15:26:08.209 [main] WorkWithLogin - The message is entered - {}
+[INFO ] 2021-12-30 15:26:08.589 [main] WebAutomator - Se cierra el WebDriver activo
+[INFO ] 2021-12-30 15:33:58.862 [main] MyFirstTestClass3 - Navegamos a la url de CURA Healthcare Service https://katalon-demo-cura.herokuapp.com
+[INFO ] 2021-12-30 15:34:01.294 [main] WorkWithLogin - The person's username is entered - {}
+[INFO ] 2021-12-30 15:34:01.422 [main] WorkWithLogin - The person's password is entered- {}
+[INFO ] 2021-12-30 15:34:02.090 [main] WebAutomator - Se cierra el WebDriver activo
+[INFO ] 2021-12-30 15:34:03.707 [main] MyFirstTestClass - Navegamos a la url de QAlified https://qalified.com/
+[INFO ] 2021-12-30 15:34:09.682 [main] WorkWithLogin - The person's name is entered - {}
+[INFO ] 2021-12-30 15:34:09.949 [main] WorkWithLogin - The message is entered - {}
+[INFO ] 2021-12-30 15:34:10.224 [main] WebAutomator - Se cierra el WebDriver activo
+[INFO ] 2021-12-30 15:34:48.473 [main] MyFirstTestClass3 - Navegamos a la url de CURA Healthcare Service https://katalon-demo-cura.herokuapp.com
+[INFO ] 2021-12-30 15:36:19.345 [main] MyFirstTestClass3 - Navegamos a la url de CURA Healthcare Service https://katalon-demo-cura.herokuapp.com
+[INFO ] 2021-12-30 15:36:24.242 [main] WorkWithLogin - The person's username is entered - {}
+[INFO ] 2021-12-30 15:36:24.334 [main] WorkWithLogin - The person's password is entered- {}
+[INFO ] 2021-12-30 15:36:24.814 [main] WebAutomator - Se cierra el WebDriver activo
+[INFO ] 2021-12-30 15:36:25.725 [main] MyFirstTestClass - Navegamos a la url de QAlified https://qalified.com/
+[INFO ] 2021-12-30 15:36:29.898 [main] WorkWithLogin - The person's name is entered - {}
+[INFO ] 2021-12-30 15:36:30.019 [main] WorkWithLogin - The message is entered - {}
+[INFO ] 2021-12-30 15:36:30.156 [main] WebAutomator - Se cierra el WebDriver activo
+[INFO ] 2021-12-30 15:39:48.645 [main] WebAutomator - Se cierra el WebDriver activo
+[INFO ] 2021-12-30 15:39:51.362 [main] MyFirstTestClass - Navegamos a la url de QAlified https://qalified.com/
+[INFO ] 2021-12-30 15:40:35.455 [main] MyFirstTestClass3 - Navegamos a la url de CURA Healthcare Service https://katalon-demo-cura.herokuapp.com
+[INFO ] 2021-12-30 15:40:37.947 [main] WorkWithLogin - The person's username is entered - {}
+[INFO ] 2021-12-30 15:40:38.035 [main] WorkWithLogin - The person's password is entered- {}
+[INFO ] 2021-12-30 15:40:38.561 [main] WebAutomator - Se cierra el WebDriver activo
+[INFO ] 2021-12-30 15:40:39.564 [main] MyFirstTestClass - Navegamos a la url de QAlified https://qalified.com/
+[INFO ] 2021-12-30 15:40:43.401 [main] WorkWithLogin - The person's name is entered - {}
+[INFO ] 2021-12-30 15:40:43.508 [main] WorkWithLogin - The message is entered - {}
+[INFO ] 2021-12-30 15:40:43.680 [main] WebAutomator - Se cierra el WebDriver activo
+[INFO ] 2021-12-30 15:46:52.182 [main] MyFirstTestClass3 - Navigate to the url of CURA Healthcare Servicehttps://katalon-demo-cura.herokuapp.com
+[INFO ] 2021-12-30 15:46:54.319 [main] WorkWithLogin - Click on the MakeAppoint button
+[INFO ] 2021-12-30 15:46:54.679 [main] WorkWithLogin - The person's username is entered - John Doe
+[INFO ] 2021-12-30 15:46:54.773 [main] WorkWithLogin - The person's password is entered
+[INFO ] 2021-12-30 15:46:54.886 [main] WorkWithLogin - Click on the Login button
+[INFO ] 2021-12-30 15:46:55.316 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2021-12-30 15:46:56.252 [main] MyFirstTestClass - Navigate to the url of QAlified https://qalified.com/
+[INFO ] 2021-12-30 15:47:02.532 [main] WorkWithLogin - The person's name is entered - James Bond
+[INFO ] 2021-12-30 15:47:02.657 [main] WorkWithLogin - The message is entered - My name is Bond, James Bond...
+[INFO ] 2021-12-30 15:47:02.796 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2021-12-30 15:57:25.351 [main] MyFirstTestClass3 - Navigate to the url of CURA Healthcare Servicehttps://katalon-demo-cura.herokuapp.com
+[INFO ] 2021-12-30 15:57:29.622 [main] WorkWithLogin - Click on the MakeAppoint button
+[INFO ] 2021-12-30 15:57:30.000 [main] WorkWithLogin - The person's username is entered - John Doe
+[INFO ] 2021-12-30 15:57:30.087 [main] WorkWithLogin - The person's password is entered
+[INFO ] 2021-12-30 15:57:30.195 [main] WorkWithLogin - Click on the Login button
+[INFO ] 2021-12-30 15:57:30.576 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2021-12-30 15:57:31.615 [main] MyFirstTestClass - Navigate to the url of QAlified https://qalified.com/
+[INFO ] 2021-12-30 15:57:36.151 [main] WorkWithLogin - The person's name is entered - James Bond
+[INFO ] 2021-12-30 15:57:36.248 [main] WorkWithLogin - The message is entered - My name is Bond, James Bond...
+[INFO ] 2021-12-30 15:57:36.380 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2022-03-27 14:53:26.100 [main] MyFirstTestClass - Navigate to the url of QAlified https://qalified.com/
+[INFO ] 2022-03-27 14:53:32.656 [main] WorkWithLogin - The person's name is entered - James Bond
+[INFO ] 2022-03-27 14:53:32.768 [main] WorkWithLogin - The message is entered - My name is Bond, James Bond...
+[INFO ] 2022-03-27 14:53:32.905 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2022-03-27 14:53:34.284 [main] MyFirstTestClass2 - Navigate to the url of CURA Healthcare Servicehttps://katalon-demo-cura.herokuapp.com
+[INFO ] 2022-03-27 14:53:36.197 [main] WorkWithLogin - Click on the MakeAppoint button
+[INFO ] 2022-03-27 14:53:36.552 [main] WorkWithLogin - The person's username is entered - John Doe
+[INFO ] 2022-03-27 14:53:36.658 [main] WorkWithLogin - The person's password is entered
+[INFO ] 2022-03-27 14:53:36.794 [main] WorkWithLogin - Click on the Login button
+[INFO ] 2022-03-27 14:53:37.232 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-04-14 12:03:00.785 [main] MyFirstTestClass - Navigate to the url of QAlified https://qalified.com/
+[INFO ] 2023-04-14 12:03:11.803 [main] WorkWithLogin - The person's name is entered - James Bond
+[INFO ] 2023-04-14 12:03:12.454 [main] WorkWithLogin - The message is entered - My name is Bond, James Bond...
+[INFO ] 2023-04-14 12:03:13.157 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-04-14 12:03:15.364 [main] MyFirstTestClass2 - Navigate to the url of CURA Healthcare Servicehttps://katalon-demo-cura.herokuapp.com
+[INFO ] 2023-04-14 12:03:21.309 [main] WorkWithLogin - Click on the MakeAppoint button
+[INFO ] 2023-04-14 12:03:22.495 [main] WorkWithLogin - The person's username is entered - John Doe
+[INFO ] 2023-04-14 12:03:22.737 [main] WorkWithLogin - The person's password is entered
+[INFO ] 2023-04-14 12:03:23.001 [main] WorkWithLogin - Click on the Login button
+[INFO ] 2023-04-14 12:03:24.684 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-04-14 12:33:45.337 [main] MyFirstTestClass - Navigate to the url of QAlified https://qalified.com/
+[INFO ] 2023-04-14 12:33:52.114 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-04-14 12:33:53.927 [main] MyFirstTestClass2 - Navigate to the url of CURA Healthcare Servicehttps://katalon-demo-cura.herokuapp.com
+[INFO ] 2023-04-14 12:40:47.459 [main] MyFirstTestClass - Navigate to the url of QAlified https://qalified.com/
+[INFO ] 2023-04-14 12:40:57.572 [main] WorkWithLogin - The person's name is entered - James Bond
+[INFO ] 2023-04-14 12:40:57.900 [main] WorkWithLogin - The message is entered - My name is Bond, James Bond...
+[INFO ] 2023-04-14 12:40:58.433 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-04-14 12:41:00.330 [main] MyFirstTestClass2 - Navigate to the url of CURA Healthcare Servicehttps://katalon-demo-cura.herokuapp.com
+[INFO ] 2023-04-14 12:41:07.019 [main] WorkWithLogin - Click on the MakeAppoint button
+[INFO ] 2023-04-14 12:41:07.642 [main] WorkWithLogin - The person's username is entered - John Doe
+[INFO ] 2023-04-14 12:41:07.846 [main] WorkWithLogin - The person's password is entered
+[INFO ] 2023-04-14 12:41:08.106 [main] WorkWithLogin - Click on the Login button
+[INFO ] 2023-04-14 12:41:08.816 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-04-14 13:38:28.530 [main] MyFirstTestClass - Navigate to the url of CURA https://katalon-demo-cura.herokuapp.com
+[INFO ] 2023-04-14 13:38:42.045 [main] WorkWithLogin - The person's username is entered - John Doe
+[INFO ] 2023-04-14 13:38:42.245 [main] WorkWithLogin - The person's password is entered
+[INFO ] 2023-04-14 13:38:42.439 [main] WorkWithLogin - Click on the menu button
+[INFO ] 2023-04-14 13:39:12.846 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-04-14 13:40:13.609 [main] MyFirstTestClass - Navigate to the url of CURA https://katalon-demo-cura.herokuapp.com
+[INFO ] 2023-04-14 13:40:20.356 [main] WorkWithLogin - Click on the MakeAppoint button
+[INFO ] 2023-04-14 13:40:20.903 [main] WorkWithLogin - The person's username is entered - John Doe
+[INFO ] 2023-04-14 13:40:21.118 [main] WorkWithLogin - The person's password is entered
+[INFO ] 2023-04-14 13:40:21.317 [main] WorkWithLogin - Click on the menu button
+[INFO ] 2023-04-14 13:40:51.810 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-04-14 13:41:03.817 [main] MyFirstTestClass - Navigate to the url of CURA https://katalon-demo-cura.herokuapp.com
+[INFO ] 2023-04-14 13:41:10.848 [main] WorkWithLogin - Click on the MakeAppoint button
+[INFO ] 2023-04-14 13:41:11.451 [main] WorkWithLogin - The person's username is entered - John Doe
+[INFO ] 2023-04-14 13:41:11.678 [main] WorkWithLogin - The person's password is entered
+[INFO ] 2023-04-14 13:41:11.894 [main] WorkWithLogin - Click on the Login button
+[INFO ] 2023-04-14 13:41:12.659 [main] WorkWithLogin - Click on the menu button
+[INFO ] 2023-04-14 13:41:42.770 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-04-14 13:50:50.645 [main] MyFirstTestClass - Navigate to the url of CURA https://katalon-demo-cura.herokuapp.com
+[INFO ] 2023-04-14 13:50:57.251 [main] WorkWithLogin - Click on the MakeAppoint button
+[INFO ] 2023-04-14 13:50:57.841 [main] WorkWithLogin - The person's username is entered - John Doe
+[INFO ] 2023-04-14 13:50:58.017 [main] WorkWithLogin - The person's password is entered
+[INFO ] 2023-04-14 13:50:58.276 [main] WorkWithLogin - Click on the Login button
+[INFO ] 2023-04-14 13:50:58.927 [main] MyFirstTestClass - Navigate to the url of CURA https://katalon-demo-cura.herokuapp.com
+[INFO ] 2023-04-14 13:50:59.292 [main] WorkWithLogin - Click on the MakeAppoint button
+[INFO ] 2023-04-14 13:51:29.475 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-04-14 13:51:34.266 [main] MyFirstTestClass - Navigate to the url of CURA https://katalon-demo-cura.herokuapp.com
+[INFO ] 2023-04-14 13:51:41.004 [main] WorkWithLogin - Click on the MakeAppoint button
+[INFO ] 2023-04-14 13:51:41.557 [main] WorkWithLogin - The person's username is entered - John Doe
+[INFO ] 2023-04-14 13:51:41.726 [main] WorkWithLogin - The person's password is entered
+[INFO ] 2023-04-14 13:51:41.900 [main] WorkWithLogin - Click on the Login button
+[INFO ] 2023-04-14 13:51:42.936 [main] MyFirstTestClass - Navigate to the url of CURA https://katalon-demo-cura.herokuapp.com
+[INFO ] 2023-04-14 13:51:42.946 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-04-14 13:53:54.982 [main] MyFirstTestClass - Navigate to the url of CURA https://katalon-demo-cura.herokuapp.com
+[INFO ] 2023-04-14 13:54:01.690 [main] WorkWithLogin - Click on the MakeAppoint button
+[INFO ] 2023-04-14 13:54:02.275 [main] WorkWithLogin - The person's username is entered - John Doe
+[INFO ] 2023-04-14 13:54:02.488 [main] WorkWithLogin - The person's password is entered
+[INFO ] 2023-04-14 13:54:02.688 [main] WorkWithLogin - Click on the Login button
+[INFO ] 2023-04-14 13:54:03.347 [main] MyFirstTestClass - Navigate to the url of CURA https://katalon-demo-cura.herokuapp.com
+[INFO ] 2023-04-14 13:54:03.809 [main] WorkWithLogin - Click on the MakeAppoint button
+[INFO ] 2023-04-14 13:58:07.669 [main] MyFirstTestClass - Navigate to the url of CURA https://katalon-demo-cura.herokuapp.com
+[INFO ] 2023-04-14 13:58:14.565 [main] WorkWithLogin - Click on the MakeAppoint button
+[INFO ] 2023-04-14 13:58:15.172 [main] WorkWithLogin - The person's username is entered - John Doe
+[INFO ] 2023-04-14 13:58:15.352 [main] WorkWithLogin - The person's password is entered
+[INFO ] 2023-04-14 13:58:15.589 [main] WorkWithLogin - Click on the Login button
+[INFO ] 2023-04-14 13:58:16.374 [main] WorkWithLogin - Click on the menu button
+[INFO ] 2023-04-14 13:58:46.533 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-04-14 14:05:15.402 [main] MyFirstTestClass - Navigate to the url of CURA https://katalon-demo-cura.herokuapp.com
+[INFO ] 2023-04-14 14:05:21.850 [main] WorkWithLogin - Click on the MakeAppoint button
+[INFO ] 2023-04-14 14:05:22.551 [main] WorkWithLogin - The person's username is entered - John Doe
+[INFO ] 2023-04-14 14:05:22.761 [main] WorkWithLogin - The person's password is entered
+[INFO ] 2023-04-14 14:05:23.061 [main] WorkWithLogin - Click on the Login button
+[INFO ] 2023-04-14 14:05:23.820 [main] WorkWithLogin - Click on the menu button
+[INFO ] 2023-04-14 14:05:54.222 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-04-14 14:53:51.759 [main] MyFirstTestClass - Navigate to the url of CURA https://katalon-demo-cura.herokuapp.com
+[INFO ] 2023-04-14 14:53:57.968 [main] WorkWithLogin - Click on the MakeAppoint button
+[INFO ] 2023-04-14 14:53:58.574 [main] WorkWithLogin - The person's username is entered - John Doe
+[INFO ] 2023-04-14 14:53:58.706 [main] WorkWithLogin - The person's password is entered
+[INFO ] 2023-04-14 14:53:58.902 [main] WorkWithLogin - Click on the Login button
+[INFO ] 2023-04-14 14:53:59.701 [main] WorkWithLogin - Click on the menu button
+[INFO ] 2023-04-14 14:53:59.799 [main] WorkWithLogin - Click on the Logout button
+[INFO ] 2023-04-14 14:54:00.458 [main] WorkWithLogin - Click on the MakeAppoint button
+[INFO ] 2023-04-14 14:54:00.875 [main] WorkWithLogin - The person's username is entered - John Doe
+[INFO ] 2023-04-14 14:54:00.979 [main] WorkWithLogin - The person's password is entered
+[INFO ] 2023-04-14 14:54:01.104 [main] WorkWithLogin - Click on the Login button
+[INFO ] 2023-04-14 14:54:01.763 [main] WorkWithLogin - Click on the menu button
+[INFO ] 2023-04-14 14:54:01.884 [main] WorkWithLogin - Click on the Logout button
+[INFO ] 2023-04-14 14:54:02.528 [main] WorkWithLogin - Click on the MakeAppoint button
+[INFO ] 2023-04-14 14:54:02.947 [main] WorkWithLogin - The person's username is entered - John Doe
+[INFO ] 2023-04-14 14:54:03.063 [main] WorkWithLogin - The person's password is entered
+[INFO ] 2023-04-14 14:54:03.214 [main] WorkWithLogin - Click on the Login button
+[INFO ] 2023-04-14 14:54:03.945 [main] WorkWithLogin - Click on the menu button
+[INFO ] 2023-04-14 14:54:04.055 [main] WorkWithLogin - Click on the Logout button
+[INFO ] 2023-04-14 14:54:04.651 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-04-27 12:34:30.826 [main] MyFirstTestClass - Navigate to the url of QAlified https://qalified.com/
+[INFO ] 2023-04-27 12:34:38.699 [main] WorkWithLogin - The person's name is entered - James Bond
+[INFO ] 2023-04-27 12:34:38.860 [main] WorkWithLogin - The message is entered - My name is Bond, James Bond...
+[INFO ] 2023-04-27 12:34:39.075 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-04-27 15:41:45.881 [main] MyFirstTestClass - Navigate to the url of QAlified https://qalified.com/
+[INFO ] 2023-04-27 15:41:59.997 [main] WorkWithLogin - The person's name is entered - James Bond
+[INFO ] 2023-04-27 15:42:00.126 [main] WorkWithLogin - The message is entered - My name is Bond, James Bond...
+[INFO ] 2023-04-27 15:42:00.320 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-04-27 15:57:43.195 [main] PrueboCaptura - Navigate to the url of QAlified https://qalified.com/
+[INFO ] 2023-04-27 15:58:04.495 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-04-27 16:08:21.159 [main] PrueboCaptura - Navigate to the url of QAlified https://qalified.com/
+[INFO ] 2023-04-27 16:08:46.856 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-04-27 16:11:46.272 [main] PrueboCaptura - Navigate to the url of QAlified https://qalified.com/
+[INFO ] 2023-04-27 16:12:06.004 [main] Captura - LLegue
+[INFO ] 2023-04-27 16:12:06.895 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 10:35:21.982 [main] PrueboCaptura - Navigate to the url of QAlified https://qalified.com/
+[INFO ] 2023-07-28 10:35:45.673 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 12:46:29.238 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 12:49:25.952 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 12:50:56.745 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 12:54:00.435 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 12:55:17.070 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 14:43:45.057 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 14:44:17.710 [main] Captura - Hubo diferencias
+[INFO ] 2023-07-28 14:44:17.715 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 14:50:16.540 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 14:50:53.770 [main] Captura - Hubo diferencias
+[INFO ] 2023-07-28 14:50:53.776 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 14:51:28.957 [main] Captura - Hubo diferencias
+[INFO ] 2023-07-28 14:51:28.964 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 15:04:07.877 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 15:09:06.710 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 15:12:15.930 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 15:12:48.610 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 15:14:01.469 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 15:15:11.038 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 15:26:07.998 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 15:27:47.453 [main] Captura - Hubo diferencias
+[INFO ] 2023-07-28 15:27:47.459 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 15:28:55.695 [main] Captura - Hubo diferencias
+[INFO ] 2023-07-28 15:28:55.700 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 15:30:39.786 [main] Captura - Hubo diferencias
+[INFO ] 2023-07-28 15:30:39.792 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 15:32:26.822 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 15:32:58.235 [main] Captura - Hubo diferencias
+[INFO ] 2023-07-28 15:32:58.245 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 15:33:51.255 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 15:34:34.065 [main] Captura - Hubo diferencias
+[INFO ] 2023-07-28 15:34:34.071 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 15:39:01.584 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 15:40:50.586 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 15:41:20.733 [main] Captura - Hubo diferencias
+[INFO ] 2023-07-28 15:41:20.739 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 15:43:29.630 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 15:44:58.118 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 15:45:28.471 [main] Captura - Hubo diferencias
+[INFO ] 2023-07-28 15:45:28.478 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 16:19:47.767 [main] Captura - Hubo diferencias
+[INFO ] 2023-07-28 16:19:47.772 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 16:22:04.855 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 16:24:13.833 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 16:30:46.192 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 16:32:38.560 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 16:39:11.202 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-07-28 16:53:29.954 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-02 12:13:04.607 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-02 12:17:11.901 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-02 12:21:28.115 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-02 12:28:01.005 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-02 12:30:27.805 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-02 12:33:19.080 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-02 12:35:27.952 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-02 12:36:14.809 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-02 13:05:03.185 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-02 13:06:21.835 [main] Captura - Hubo diferencias
+[INFO ] 2023-08-02 13:06:21.840 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-02 13:13:07.521 [main] Captura - Hubo diferencias
+[INFO ] 2023-08-02 13:13:07.527 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-02 13:14:27.997 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-02 13:15:09.500 [main] Captura - Hubo diferencias
+[INFO ] 2023-08-02 13:15:09.504 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-02 13:17:56.736 [main] Captura - Hubo diferencias
+[INFO ] 2023-08-02 13:17:56.742 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-02 14:33:39.360 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-02 14:34:33.264 [main] Captura - Hubo diferencias
+[INFO ] 2023-08-02 14:34:33.269 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 00:09:12.302 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 00:10:27.722 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 00:17:36.800 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 00:17:36.807 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 00:18:16.078 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 00:18:16.153 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 00:24:41.556 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 00:24:41.624 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 00:25:50.565 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 00:25:50.650 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 00:25:54.861 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 00:25:54.876 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 00:26:47.861 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 00:26:47.951 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 00:26:52.180 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 00:26:52.196 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 00:29:04.879 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 00:29:04.951 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 00:29:09.329 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 00:29:09.346 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 00:32:02.452 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 00:32:02.528 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 00:32:06.936 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 00:32:06.952 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 00:35:54.740 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 00:35:54.808 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 00:35:58.799 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 00:35:58.816 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 00:38:48.260 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 00:38:53.123 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 00:38:53.140 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 10:59:53.254 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 10:59:53.332 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 11:11:55.795 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 11:11:55.877 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 12:11:02.499 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 12:11:02.582 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 12:11:06.990 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 12:11:07.064 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 12:12:43.725 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 12:12:43.806 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 12:15:22.162 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 12:16:11.441 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 12:16:11.516 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 12:18:54.475 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 12:18:54.611 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 14:30:48.628 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 14:30:48.762 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 14:34:27.920 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 14:34:28.063 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 15:02:42.615 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 15:02:42.692 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 15:10:21.272 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 15:10:21.431 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 15:12:30.051 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 15:12:30.216 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 15:14:21.802 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 15:14:21.955 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 15:17:04.625 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 15:17:04.715 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-04 15:36:38.857 [main] VisualTesting - Hubo diferencias
+[INFO ] 2023-08-04 15:36:38.945 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-23 11:49:17.903 [main] WebAutomator - The active WebDriver closes
+[INFO ] 2023-08-23 11:53:39.494 [main] WebAutomator - The active WebDriver closes
