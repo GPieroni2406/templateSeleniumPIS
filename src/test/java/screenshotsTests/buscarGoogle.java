@@ -2,22 +2,11 @@ package screenshotsTests;
 import automation.VisualTesting;
 
 import java.io.IOException;
-
-import org.apache.logging.log4j.LogManager;
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
-
-import com.aventstack.extentreports.ExtentReports;
-import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
-import com.aventstack.extentreports.reporter.ExtentSparkReporter;
-import com.aventstack.extentreports.reporter.configuration.Theme;
 
 import pom.*;
-import ru.yandex.qatools.ashot.AShot;
-import ru.yandex.qatools.ashot.Screenshot;
 import test.TestBase;
 
 
@@ -35,8 +24,7 @@ public class buscarGoogle extends TestBase {
 		
 		vt.Capture(newBase, test, "googleHome.png");
 		PruebaGoogle p = new PruebaGoogle(this.automator);
-		p.buscarEnGoogle("hola",vt,test,newBase);
-	
+		p.buscarEnGoogle("Selenium tutorial for begginers",vt,test,newBase, this.automator.getDriver());
 	}
 	
 	

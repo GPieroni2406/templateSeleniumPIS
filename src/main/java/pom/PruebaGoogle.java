@@ -7,6 +7,8 @@ import java.time.Duration;
 
 import org.apache.logging.log4j.LogManager;
 import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import com.aventstack.extentreports.ExtentTest;
@@ -16,9 +18,10 @@ import automation.VisualTesting;
 import automation.WebAutomator;
 
 public class PruebaGoogle {
-	private By buscadorGoogle = By.cssSelector("#APjFqb");
-	private By imagenGoogle = By.cssSelector("a.LatpMc:nth-child(1) > div:nth-child(1) > span:nth-child(1)");
-	private By botonBuscar = By.cssSelector("div.lJ9FBc:nth-child(11) > center:nth-child(2) > input:nth-child(1)");
+	private By buscadorGoogle = By.id("APjFqb");
+	private By buscadorJavatpoint = By.className("gsc-input");
+	private By primerEntrada = By.xpath("//a[contains(@href, 'javatpoint')]");
+	
 	// Driver
 	private WebAutomator automator;
 
@@ -26,16 +29,24 @@ public class PruebaGoogle {
 		this.automator = a;
 	}
 
-	public void buscarEnGoogle(String texto,VisualTesting vt, ExtentTest test,String newBase) throws InterruptedException {
-		this.automator.find(buscadorGoogle).setText(texto);
-		Thread.sleep(2000);
-		this.automator.find(botonBuscar).click();
-		Thread.sleep(2000);
-		vt.CaptureElem(newBase, this.automator.find(imagenGoogle).getWebElement(), test, "capturaImagen.png");
-		test.log(Status.INFO, "Capturing page...");
+	public void buscarEnGoogle(String texto,VisualTesting vt, ExtentTest test,String newBase, WebDriver d) throws InterruptedException {
+		WebDriverWait wait = new WebDriverWait(d, 10);
 		
-	
+		this.automator.find(buscadorGoogle).setText(texto);
+		this.automator.find(buscadorGoogle).submit();
 
+		wait.until(ExpectedConditions.presenceOfElementLocated(By.cssSelector("h3")));
+		this.automator.find(primerEntrada).click();
+		
+		
+		wait.until(ExpectedConditions.presenceOfElementLocated(buscadorJavatpoint));
+		/*Thread.sleep(6000);
+		this.automator.getDriver().findElement(buscadorJavatpoint).sendKeys("hola");
+		this.automator.getDriver().findElement(buscadorJavatpoint).submit();
+		Thread.sleep(10000);*/
+		
+		vt.Capture(newBase, test, "capturaJavatpoint.png");
+		test.log(Status.INFO, "Capturing page...");
 	}
 
 }
