@@ -7,7 +7,8 @@
 	<parameter name="user" value="John Doe" />
 	<parameter name="newBase" value="True" />
 	<parameter name="urlGoogle" value="https://www.google.com/" />
-	<parameter name="browser" value="FIREFOX" />
+	<parameter name="urlBBC" value="https://www.bbc.com/" />
+	<parameter name="browser" value="CHROME" />
 	<parameter name="max_wait" value="30" />
 	<parameter name="isHeadless" value="false" />
 	<parameter name="close_browser_after_execution" value="false" />
@@ -16,6 +17,7 @@
 		<classes>
 <!-- 			<class name="screenshotsTests.PrueboCapturaCompleta" /> -->
 			<class name="screenshotsTests.buscarGoogle" />
+			<class name="screenshotsTests.Prueba2" />
 		</classes>
 	</test>
 </suite> <!-- Suite -->
