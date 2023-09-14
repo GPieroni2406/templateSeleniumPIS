@@ -61,10 +61,6 @@ public class WebAutomator {
 		case FIREFOX:
 
 			FirefoxProfile profile = new FirefoxProfile();
-			
-			//ProfilesIni profiles = new ProfilesIni();
-			//FirefoxProfile profile = profiles.getProfile("default-release");
-			
 	        FirefoxOptions options1 = new FirefoxOptions();
 	        options1.setProfile(profile);
 		    System.setProperty("webdriver.gecko.driver", Config.DRIVER_PATH + "geckodriver.exe");
@@ -76,7 +72,6 @@ public class WebAutomator {
 			System.setProperty("webdriver.edge.driver", Config.DRIVER_PATH + "msedgedriver.exe");
 			
 			EdgeOptions options2 = new EdgeOptions();
-			//options2.setCapability("--remote-allow-origins", "*");
 	        driver = new EdgeDriver(options2);
 	        
 	        
