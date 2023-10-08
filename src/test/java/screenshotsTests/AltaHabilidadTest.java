@@ -22,11 +22,11 @@ import ru.yandex.qatools.ashot.Screenshot;
 import test.TestBase;
 
 
-public class LoginTest extends TestBase {
+public class AltaHabilidadTest extends TestBase {
 	
 	@Test(enabled = true)
-	@Parameters({"host","newBase","user","pass"})
-	public void login(String host,String newBase,String user,String pass) throws IOException, InterruptedException {
+	@Parameters({"host","newBase","user","pass","habilidad"})
+	public void altaHabilidad(String host,String newBase,String user,String pass,String habilidad) throws IOException, InterruptedException {
 		setExtent("Login"); //Seteamos nombre del reporte.
 		test.log(Status.INFO, "Directing to the website:"+ host);
 		this.automator.goTo(host);
@@ -35,11 +35,15 @@ public class LoginTest extends TestBase {
 		test.log(Status.INFO, "Capturing page...");
 		VisualTesting vt = new VisualTesting(this.automator.getDriver());
 		
-		vt.Capture(newBase, test, "LoginHome.png");
-		Login l = new Login(this.automator, test, vt, newBase);
+		vt.Capture(newBase, test, "Home.png");
+	
+		Login l = new Login(automator, test, vt, newBase);
 		l.Loguearse(user, pass);
+		Thread.sleep(3000);
+		AltaHabilidad ah = new AltaHabilidad(automator, test, vt, newBase);
+		ah.agregar(habilidad);
+
 		this.automator.closeAll();
 	}
-	
 	
 }

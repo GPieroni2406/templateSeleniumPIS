@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite_Demo">
-	<parameter name="host" value="http://localhost:4200/" />
+	<parameter name="host" value="https://victorious-bush-0367d1e10.3.azurestaticapps.net" />
 
-	<parameter name="pass" value="1234" />
-	<parameter name="user" value="a@a.com" />
+	<parameter name="pass" value="admin" />
+	<parameter name="user" value="admin@mail.com" />
+	<parameter name="habilidad" value="habilidadSelenium" />
 	
 	<parameter name="newBase" value="True" />
 
-	<parameter name="browser" value="EDGE" />
+	<parameter name="browser" value="CHROME" />
 	<parameter name="max_wait" value="30" />
-	<parameter name="isHeadless" value="true" />
-	<parameter name="close_browser_after_execution" value="false" />
+	<parameter name="isHeadless" value="false" />
+	<parameter name="close_browser_after_execution" value="true" />
 
 
-	<test thread-count="1" name="testSuite-test">
+	<test thread-count="10" name="testSuite-test">
 		<classes>
-			<class name="screenshotsTests.LoginTest" />
+			<class name="screenshotsTests.VerHabilidadesTest" />
 		</classes>
 	</test>
 </suite> <!-- Suite -->

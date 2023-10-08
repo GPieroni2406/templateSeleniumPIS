@@ -21,10 +21,10 @@ public class Login {
 	private String newBase;
 	private ExtentTest test;
 	
-	private By buttonIniciar = By.id("inicioSesion");
+	private By buttonIniciar = By.xpath("//span[text()='Iniciar sesión']");
 	private By email = By.id("inputEmail");
 	private By password = By.id("inputPassword");
-	private By buttonIngresar = By.xpath("//button[@ng-reflect-label='Ingresar']");
+	private By buttonIngresar = By.xpath("//button[@label='Ingresar']");
 	
 	public Login(WebAutomator a,ExtentTest test,VisualTesting vt,String newBase){
 		this.automator = a;

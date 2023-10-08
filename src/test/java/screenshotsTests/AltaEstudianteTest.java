@@ -22,11 +22,11 @@ import ru.yandex.qatools.ashot.Screenshot;
 import test.TestBase;
 
 
-public class LoginTest extends TestBase {
+public class AltaEstudianteTest extends TestBase {
 	
 	@Test(enabled = true)
 	@Parameters({"host","newBase","user","pass"})
-	public void login(String host,String newBase,String user,String pass) throws IOException, InterruptedException {
+	public void altaEstudiante(String host,String newBase) throws IOException, InterruptedException {
 		setExtent("Login"); //Seteamos nombre del reporte.
 		test.log(Status.INFO, "Directing to the website:"+ host);
 		this.automator.goTo(host);
@@ -35,11 +35,12 @@ public class LoginTest extends TestBase {
 		test.log(Status.INFO, "Capturing page...");
 		VisualTesting vt = new VisualTesting(this.automator.getDriver());
 		
-		vt.Capture(newBase, test, "LoginHome.png");
-		Login l = new Login(this.automator, test, vt, newBase);
-		l.Loguearse(user, pass);
+		vt.Capture(newBase, test, "Home.png");
+	
+		AltaEstudiante ae = new AltaEstudiante(automator, test, vt,newBase);
+		ae.registrar("mailSeleniumTest222@fing.edu.uy", "test1234TEST", "Auto", "Mation","Ingeniería en Computación");
+		
 		this.automator.closeAll();
 	}
-	
 	
 }
